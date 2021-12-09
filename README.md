@@ -12,8 +12,8 @@ Ring Light como iluminação
 
 ### 📋 Pré-requisitos
 
-Criação do banco de dados
-Instalação do python 3
+Criação do banco de dados.
+Instalação do python 3.
 
 ```
 $ sudo apt-get install python3
