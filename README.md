@@ -13,6 +13,7 @@ Ring Light como iluminação
 ### 📋 Pré-requisitos
 
 Criação do banco de dados.
+
 Instalação do python 3.
 
 ```
