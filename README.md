@@ -12,9 +12,9 @@ Ring Light como iluminação
 
 ### 📋 Pré-requisitos
 
-Criação do banco de dados.
+* Criação do banco de dados.
 
-Instalação do python 3.
+* Instalação do python 3.
 
 ```
 $ sudo apt-get install python3
@@ -34,8 +34,8 @@ $ python monitoramento_linhaseriada.py
 
 ## 📦 Desenvolvimento Web
 
-Deve ser inicializado o MySQL e Apache dentro do XAMPP para ter acesso à página web e banco de dados.
-Para acesso à página web, inserir os arquivos .php na pasta 
+* Deve ser inicializado o MySQL e Apache dentro do XAMPP para ter acesso à página web e banco de dados.
+* Para acesso à página web, inserir os arquivos .php na pasta 
 ```
 xampp/htdocs/
 ```
