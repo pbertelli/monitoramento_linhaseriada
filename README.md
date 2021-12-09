@@ -12,14 +12,12 @@ Ring Light como iluminação
 
 ### 📋 Pré-requisitos
 
-* Criação do banco de dados.
-* Instalação do python 3.
-
+* Criação do banco de dados;
+* Instalação do python 3;
 ```
 $ sudo apt-get install python3
 ```
-
-Instalação da biblioteca OpenCV
+* Instalação da biblioteca OpenCV
 ```
 $ sudo apt update
 $ sudo apt install python3-opencv
@@ -36,10 +34,9 @@ $ python monitoramento_linhaseriada.py
 * Deve ser inicializado o MySQL e Apache dentro do XAMPP para ter acesso à página web e banco de dados.
 * Para acesso à página web, inserir os arquivos .php na pasta 
 ```
-xampp/htdocs/
+/xampp/htdocs/
 ```
-E acessar a partir do navegador com o caminho:
-
+* Acessar a partir do navegador com o caminho:
 ```
 localhost/monitoramento.php
 ```
